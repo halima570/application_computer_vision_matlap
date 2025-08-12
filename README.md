@@ -50,5 +50,8 @@ Ce projet présente une application de **Computer Vision** développée en **MAT
 4. Suivre les instructions à l’écran pour charger des images/vidéos et appliquer des traitements (selon ce que le projet propose).
 
 
+---
+## Contact
 
+Pour toute question, tu peux me contacter via mon profil linkedin (www.linkedin.com/in/halima-el-hagouchi-61a21a213).
 
